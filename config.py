@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_USERNAME = getenv("BOT_USERNAME" , "musiicyo_bot")
 
 # Get Your repo
-REPO_LINK = getenv("REPO_LINK" , "https://te.legra.ph/file/4b225214f22ad8bbc8a86.mp4")
+REPO_LINK = getenv("REPO_LINK" , "https://telegra.ph/file/1428bc7de45467758b8a6.mp4")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Yo Musicbot")
@@ -87,7 +87,7 @@ confirmer = {}
 
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://te.legra.ph/file/cc59cd1a56386094030ef.jpg"
+    "START_IMG_URL", "https://telegra.ph/file/3a1e195b91a31a4be4b7c.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://te.legra.ph/file/cfb70ea22033092b1076d.jpg"
