@@ -1,9 +1,9 @@
 <h2 align="center">
-    ──「 THUNDER MUSIC 」──
+    ~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏 🎶
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/2ffd0aeec8298e4fc7332.jpg">
+  <img src="https://telegra.ph/file/3a1e195b91a31a4be4b7c.jpg">
 </p>
 
 <p align="center">
