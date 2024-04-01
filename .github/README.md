@@ -6,10 +6,6 @@
   <img src="https://telegra.ph/file/3a1e195b91a31a4be4b7c.jpg">
 </p>
 
-<p align="center">
-  <img src="https://telegra.ph/file/9960aa21f52a3d368051d.jpg">
-</p>
-
 <br>
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/jassbots/jassmusicbots/tree/Master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
