@@ -7,14 +7,6 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/WCGKING/stargazers"><img src="https://img.shields.io/https://github.com/WCGKING?color=black&logo=github&logoColor=black&style=for-the-badge" alt="Stars" /></a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/network/members"> <img src="https://img.shields.io/github/forks/WCGKING/BRANDED-NEW-MUSIC?color=black&logo=github&logoColor=black&style=for-the-badge" /></a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/blob/master/LICENSE"> <img src="https://img.shields.io/badge/License-MIT-blueviolet?style=for-the-badge" alt="License" /> </a>
-<a href="https://www.python.org/"> <img src="https://img.shields.io/badge/Written%20in-Python-orange?style=for-the-badge&logo=python" alt="Python" /> </a>
-<a href="https://github.com/WCGKING/BRANDED-NEW-MUSIC/commits/WCGKING"> <img src="https://img.shields.io/github/last-commit/WCGKING/BRANDED-NEW-MUSIC?color=blue&logo=github&logoColor=green&style=for-the-badge" /></a>
-</p>
-
-<p align="center">
   <img src="https://telegra.ph/file/9960aa21f52a3d368051d.jpg">
 </p>
 
