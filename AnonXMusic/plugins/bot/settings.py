@@ -128,8 +128,7 @@ async def without_Admin_rights(client, CallbackQuery, _):
             return
     if command == "ANSWERVOMODE":
         current = await get_upvote_count(CallbackQuery.message.chat.id)
-
-try:
+        try:
             return await CallbackQuery.answer(
                 _["setting_9"].format(current),
                 show_alert=True,
@@ -240,8 +239,7 @@ async def playmode_ans(client, CallbackQuery, _):
             Direct = None
         playty = await get_playtype(CallbackQuery.message.chat.id)
         if playty == "Everyone":
-
-Playtype = None
+            Playtype = None
         else:
             Playtype = True
         buttons = playmode_users_markup(_, Direct, Group, Playtype)
@@ -340,8 +338,7 @@ async def authusers_mar(client, CallbackQuery, _):
                         InlineKeyboardButton(
                             text=_["CLOSE_BUTTON"],
                             callback_data=f"close",
-
-),
+                        ),
                     ]
                 ]
             )
