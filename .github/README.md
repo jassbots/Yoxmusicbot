@@ -10,8 +10,7 @@
 <p align="center"><a href="http://dashboard.heroku.com/new?template=https://github.com/jassbots/jassmusicbots/tree/Master"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </details>
 
-**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ .[~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏].
-🎶(https://t.me/MusiicYo_bot)**
+**𝙏𝙀𝙎𝙏 𝘽𝙊𝙏 ➣ [~𝙔𝙤 𝙈𝙪𝙨𝙞𝙘𝙗𝙤𝙏 🎶](https://t.me/musiicYo_bot)**
 
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
