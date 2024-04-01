@@ -86,10 +86,10 @@ autoclean = []
 confirmer = {}
 
 
-START_IMG_URL = getenv(
+START_VIDEO_URL = getenv(
     "START_VIDEO_URL", "https://telegra.ph/file/c4dc43163383ac0163cbc.mp4"
 )
-PING_IMG_URL = getenv(
+PING_VIDEO_URL = getenv(
     "PING_VIDEO_URL", "https://telegra.ph/file/cf08c56e698e34fa21cda.mp4"
 )
 PLAYLIST_IMG_URL = "https://te.legra.ph/file/2e2f78610814092d61103.jpg"
