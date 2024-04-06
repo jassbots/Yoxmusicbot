@@ -17,7 +17,7 @@ BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_USERNAME = getenv("BOT_USERNAME" , "musiicyo_bot")
 
 # Get Your repo
-REPO_LINK = getenv("REPO_LINK" , "https://telegra.ph/file/1428bc7de45467758b8a6.mp4")
+REPO_LINK = getenv("REPO_LINK" , "https://graph.org/file/1dcf9a3ba856b765997a3.mp4")
 
 # Don't Add style font 
 BOT_NAME = getenv("BOT_NAME" , "Yo Musicbot")
