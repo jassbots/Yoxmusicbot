@@ -154,6 +154,15 @@ def slider_markup(_, videoid, user_id, query, query_type, channel, fplay):
                 callback_data=f"slider F|{query_type}|{query}|{user_id}|{channel}|{fplay}",
             ),
         ],
+
+        [
+            InlineKeyboardButton(
+                text="🎋𝙊𝙬𝙣𝙚𝙧🎋", url=f"https://t.me/unknown_bande"
+            ),
+            InlineKeyboardButton(
+                text="🌟𝙎𝙪𝙥𝙥𝙤𝙧𝙩🌟", url=f"https://t.me/punjabiii_chat"
+            ),
+        ],
     ]
     return buttons
        
