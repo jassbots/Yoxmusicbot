@@ -25,7 +25,7 @@ BOT_NAME = getenv("BOT_NAME" , "Yo Musicbot")
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
-DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 999999))
+DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "999999" ))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID", None))
@@ -52,7 +52,7 @@ SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/unknown_bande")
 SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/punjabiii_chat")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False)
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", "False" )
 
 
 # Get this credentials from https://developer.spotify.com/dashboard
